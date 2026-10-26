@@ -1,0 +1,2 @@
+# Smart-Groundwater-Risk-Prediction-and-Automated-Recharge-Decision-Support-System-using-IoT
+Our IoT-based system monitors groundwater levels, rainfall, soil moisture, tank levels, and basic rainwater quality. Using ESP32, it assesses groundwater risk and supports automated recharge decisions. The prototype activates a pump only when predefined water availability ,safety conditions are satisfied, promoting smarter groundwater conservation.
